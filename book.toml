@@ -1,0 +1,6 @@
+[book]
+authors = ["Jeldo Meppen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ACEEU Knowledge Base"
